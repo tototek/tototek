@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, I'm Marcelo</h1>
-<h3 align="center">A passionate for the Edge Machine Learning</h3>
+<h1 align="center">Hola 👋, I'm Marcelo from MPtek Lab </h1>
+<h3 align="center">Electronic and Electrical Engineer a passionate for the Edge Machine Learning</h3>
 
 - 🔭 I’m currently working on **TinyML**
 
