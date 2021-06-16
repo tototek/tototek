@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, I'm Marcelo from MPtek Lab </h1>
 <h3 align="center">Electronic and Electrical Engineer a passionate for the Edge Machine Learning</h3>
 
-- 🔭 I’m currently working on **TinyML**
+- 💡 I’m currently working on **TinyML**
 
-- 🌱 I’m currently learning **TinyML-Computer Vision-Edge AI**
+- 🔍 I’m currently learning **TinyML-Computer Vision-Edge AI**
 
-- 👯 I’m currently working on **Internet of Things**
+- 🎪 I’m currently working on **Internet of Things**
 
-- 🤝 I’m currently working on **Computer Vision**
+- 💻 I’m currently working on **Computer Vision**
 
 
 <h3 align="left">Languages and Tools:</h3>
